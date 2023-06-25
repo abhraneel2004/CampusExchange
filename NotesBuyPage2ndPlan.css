@@ -1,0 +1,237 @@
+.aotcampusexchangecom-20231 {
+  position: absolute;
+  bottom: 0.3px;
+  left: calc(50% - 210px);
+}
+.buy1,
+.home1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+}
+.home1 {
+  cursor: pointer;
+}
+.buy1 {
+  color: var(--color-lightsteelblue-100);
+}
+.campus-exchange-group,
+.home-group {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  color: var(--color-white);
+}
+.home-group {
+  margin: 0;
+  width: 1131.2px;
+  height: 48px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.campus-exchange-group {
+  position: absolute;
+  top: 0;
+  left: -1.6px;
+  background-color: var(--color-darkslategray-100);
+  width: 1537.6px;
+  height: 160.8px;
+  flex-direction: column;
+  padding: 0 203.1999969482422px;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-13xl-8);
+  font-size: var(--font-size-22xl-6);
+  font-family: var(--font-amaranth);
+}
+.image-1-icon {
+  position: relative;
+  width: 218.4px;
+  height: 218.4px;
+  object-fit: cover;
+}
+.lambert-beers-law {
+  margin: 0;
+}
+.lambert-beers-law-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.lambert-beers-law-notes-chem-parent {
+  height: 171.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl-6);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-1-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 235.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.data-structures-notes-pcc-cs3-parent {
+  width: 448.8px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame,
+.notes-3-1-parent {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame {
+  width: 448.8px;
+  height: 153.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.notes-3-1-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 234.4px;
+  flex-direction: row;
+  gap: var(--gap-23xl);
+}
+.laboratory-manual-of-physics-l-parent {
+  width: 615.6px;
+  height: 171.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl-6);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame-ol,
+.notes-2-1-parent {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.notes-2-1-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  width: 1174.4px;
+  height: 236px;
+  flex-direction: row;
+  gap: var(--gap-23xl);
+}
+.frame-ol {
+  margin: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1232px;
+  height: 940px;
+  flex-direction: column;
+  padding: 0 0 472.8000183105469px var(--padding-base);
+}
+.all1,
+.frame-div,
+.frame-ol {
+  position: absolute;
+  top: 0;
+}
+.frame-div {
+  right: 0;
+  background-color: var(--color-lightgray);
+  width: 1249px;
+  height: 637px;
+  overflow-y: auto;
+}
+.all1 {
+  margin: 0;
+  font-weight: 400;
+  cursor: pointer;
+}
+.all1,
+.notes-and-lab-container1,
+.stationeries1 {
+  left: 13px;
+  font-size: inherit;
+  font-family: inherit;
+}
+.stationeries1 {
+  margin: 0;
+  position: absolute;
+  top: 57px;
+  font-weight: 400;
+  cursor: pointer;
+}
+.notes-and-lab-container1 {
+  top: 114px;
+  line-height: 25px;
+  font-weight: 700;
+}
+.all-group,
+.books1,
+.notes-and-lab-container1 {
+  margin: 0;
+  position: absolute;
+}
+.books1 {
+  top: 185px;
+  left: 13px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  cursor: pointer;
+}
+.all-group {
+  top: 87px;
+  left: 0;
+  width: 188px;
+  height: 222px;
+}
+.frame-container {
+  position: absolute;
+  top: 189px;
+  left: calc(50% - 753px);
+  width: 1506px;
+  height: 637px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+}
+.notes-buy-page-2nd-plan {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl-8);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./InboxPage1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Amaranth:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="inbox-page1">
+      <small class="aotcampusexchangecom-20237" id="i17"
+        >© aotcampusexchange.com 2023</small
+      >
+      <section class="inbox-page-inner" id="i11">
+        <section class="inbox-group" id="i12">
+          <h4 class="inbox8" id="i13">Inbox</h4>
+          <ul class="frame-parent18" id="i14">
+            <section
+              class="order-placed-your-soul-is-a-r-container"
+              id="frameSection2"
+            >
+              <div class="order-placed-your2">
+                Order Placed: Your Soul is a River by Nikita Gill, Hardco...
+              </div>
+              <div class="aanya-sharma-eee4">Aanya Sharma, EEE , 1st Year</div>
+              <img class="dots-icon2" alt="" src="./public/2-dots2.svg" />
+            </section>
+            <section class="frame-wrapper5">
+              <div class="order-placed-binder-clips-mu-group">
+                <div class="order-placed-your2">
+                  Order Placed: Binder Clips, Multi-color, 5 pieces
+                </div>
+                <div class="aanya-sharma-eee4">
+                  Nandini Mukherjee, CSBS , 2nd Year
+                </div>
+                <img class="dot-icon2" alt="" src="./public/1-dot2.svg" />
+              </div>
+            </section>
+            <section class="order-placed-push-pins-tacks-group">
+              <div class="order-placed-your2">
+                Order Placed: Push Pins Tacks, Assorted Colors, Steel P...
+              </div>
+              <div class="aanya-sharma-eee4">Arjun Patel, CSE , 2nd Year</div>
+              <img class="dot-icon2" alt="" src="./public/1-dot3.svg" />
+            </section>
+          </ul>
+          <h4 class="inbox8" id="i15">Your Products</h4>
+          <div class="frame-child15" id="i16"></div>
+        </section>
+      </section>
+      <div class="background1"></div>
+      <header class="campus-exchange-parent4" id="i1">
+        <h1 class="campus-exchange7" id="i2">Campus Exchange</h1>
+        <nav class="home-parent4" id="i3">
+          <h3 class="home7" id="i4">Home</h3>
+          <h3 class="home7" id="i5">Buy</h3>
+          <h3 class="home7" id="i6">Sell</h3>
+          <h3 class="home7" id="i7">Request</h3>
+          <h3 class="inbox9" id="i8">Inbox</h3>
+          <h3 class="home7" id="i9">Profile</h3>
+          <h3 class="home7" id="i10">Logout</h3>
+        </nav>
+      </header>
+    </div>
+
+    <script>
+      var frameSection2 = document.getElementById("frameSection2");
+      if (frameSection2) {
+        frameSection2.addEventListener("click", function (e) {
+          window.location.href = "./InboxPage.html";
+        });
+      }
+      
+      var home = document.getElementById("i4");
+      if (home) {
+        home.addEventListener("click", function (e) {
+          window.location.href = "./HomePage.html";
+        });
+      }
+      
+      var buy = document.getElementById("i5");
+      if (buy) {
+        buy.addEventListener("click", function (e) {
+          // Please sync "Buy Page" to the project
+        });
+      }
+      
+      var sell = document.getElementById("i6");
+      if (sell) {
+        sell.addEventListener("click", function (e) {
+          window.location.href = "./SellPage1.html";
+        });
+      }
+      
+      var request = document.getElementById("i7");
+      if (request) {
+        request.addEventListener("click", function (e) {
+          window.location.href = "./RequestPage1.html";
+        });
+      }
+      
+      var profile = document.getElementById("i9");
+      if (profile) {
+        profile.addEventListener("click", function (e) {
+          window.location.href = "./ProfilePage.html";
+        });
+      }
+      
+      var logout = document.getElementById("i10");
+      if (logout) {
+        logout.addEventListener("click", function (e) {
+          window.location.href = "./LogInPage.html";
+        });
+      }
+      </script>
+  </body>
+</html>

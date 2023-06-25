@@ -1,0 +1,222 @@
+.aotcampusexchangecom-2023 {
+  position: absolute;
+  bottom: 0.3px;
+  left: calc(50% - 210px);
+}
+.buy,
+.campus-exchange,
+.home {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.buy,
+.home {
+  font-weight: 600;
+}
+.home {
+  cursor: pointer;
+}
+.buy {
+  color: var(--color-lightsteelblue-100);
+}
+.campus-exchange-parent,
+.home-parent {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  color: var(--color-white);
+}
+.home-parent {
+  margin: 0;
+  width: 1131.2px;
+  height: 48px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.campus-exchange-parent {
+  position: absolute;
+  top: 0;
+  left: -1.6px;
+  background-color: var(--color-darkslategray-100);
+  width: 1537.6px;
+  height: 160.8px;
+  flex-direction: column;
+  padding: 0 203.1999969482422px;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-13xl-8);
+  font-size: var(--font-size-22xl-6);
+  font-family: var(--font-amaranth);
+}
+.book-1-1 {
+  position: relative;
+  width: 218.4px;
+  height: 218.4px;
+  object-fit: cover;
+}
+.your-soul-is {
+  margin: 0;
+}
+.your-soul-is-a-river-by-nikita-parent {
+  width: 511.2px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.book-1-1-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 236px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.goldie-paperback-rs-25000-parent {
+  width: 361.2px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.book-3-1-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 236.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.introduction-to-programming-wi-parent {
+  width: 448.8px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.book-4-2-parent,
+.frame-group {
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.book-4-2-parent {
+  border-bottom: 0.8px solid var(--color-black);
+  width: 1174.4px;
+  height: 234.4px;
+  flex-direction: row;
+  gap: var(--gap-23xl);
+}
+.frame-group {
+  margin: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1232px;
+  height: 942px;
+  flex-direction: column;
+  padding: 0 0 472.8000183105469px var(--padding-base);
+}
+.all,
+.frame-group,
+.frame-wrapper {
+  position: absolute;
+  top: 0;
+}
+.frame-wrapper {
+  right: 0;
+  background-color: var(--color-lightgray);
+  width: 1249px;
+  height: 637px;
+  overflow-y: auto;
+}
+.all {
+  margin: 0;
+}
+.all,
+.notes-and-lab-container,
+.stationeries {
+  left: 13px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  cursor: pointer;
+}
+.stationeries {
+  margin: 0;
+  position: absolute;
+  top: 57px;
+}
+.notes-and-lab-container {
+  top: 114px;
+  line-height: 25px;
+}
+.all-parent,
+.books,
+.notes-and-lab-container {
+  margin: 0;
+  position: absolute;
+}
+.books {
+  top: 185px;
+  left: 13px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.all-parent {
+  top: 87px;
+  left: 0;
+  width: 185px;
+  height: 222px;
+}
+.frame-parent {
+  position: absolute;
+  top: 189px;
+  left: calc(50% - 753px);
+  width: 1506px;
+  height: 637px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+}
+.books-buy-page-2nd-plan {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl-8);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

@@ -1,0 +1,308 @@
+.aotcampusexchangecom-20235 {
+  position: absolute;
+  bottom: 0.3px;
+  left: calc(50% - 210px);
+}
+.buy5,
+.campus-exchange5,
+.home5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.buy5,
+.home5 {
+  font-weight: 600;
+}
+.home5 {
+  cursor: pointer;
+}
+.buy5 {
+  color: var(--color-lightsteelblue-100);
+}
+.campus-exchange-parent2,
+.home-parent2 {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  color: var(--color-white);
+}
+.home-parent2 {
+  margin: 0;
+  width: 1131.2px;
+  height: 48px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.campus-exchange-parent2 {
+  position: absolute;
+  top: 0;
+  left: -1.6px;
+  background-color: var(--color-darkslategray-100);
+  width: 1537.6px;
+  height: 160.8px;
+  flex-direction: column;
+  padding: 0 203.1999969482422px;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-13xl-8);
+  font-size: var(--font-size-22xl-6);
+  font-family: var(--font-amaranth);
+}
+.pins-1-icon1 {
+  position: relative;
+  width: 218.4px;
+  height: 218.4px;
+  object-fit: cover;
+}
+.push-pins-tacks-assorted-colo-group {
+  width: 645.6px;
+  height: 154.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl-6);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.pins-1-group {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 236px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.lambert-beers-law-notes-chem-group {
+  height: 171.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl-6);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.image-1-group {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 235.2px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.binder-clips-multi-color-5-p-group,
+.goldie-paperback-rs-25000-group,
+.your-soul-is-a-river-by-nikita-group {
+  width: 511.2px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.binder-clips-multi-color-5-p-group,
+.goldie-paperback-rs-25000-group {
+  width: 424.8px;
+}
+.goldie-paperback-rs-25000-group {
+  width: 361.2px;
+}
+.book-3-1-group {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 236.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-23xl);
+}
+.data-structures-notes-pcc-cs3-container {
+  width: 448.8px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame5,
+.notes-3-1-group {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame5 {
+  width: 448.8px;
+  height: 153.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.notes-3-1-group {
+  border-bottom: 0.8px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1174.4px;
+  height: 234.4px;
+  flex-direction: row;
+  gap: var(--gap-23xl);
+}
+.highlighter-orange-pink-ne-group {
+  width: 601.2px;
+  height: 138px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.frame6,
+.introduction-to-programming-wi-group,
+.laboratory-manual-of-physics-l-group {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.frame6 {
+  width: 601.2px;
+  height: 151.2px;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+}
+.introduction-to-programming-wi-group,
+.laboratory-manual-of-physics-l-group {
+  width: 615.6px;
+  height: 171.6px;
+  align-items: flex-start;
+  gap: var(--gap-8xl-6);
+}
+.introduction-to-programming-wi-group {
+  width: 448.8px;
+  height: 138px;
+  gap: var(--gap-11xl);
+}
+.rs-6000- {
+  margin: 0;
+}
+.frame-parent14 {
+  margin: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1232px;
+  height: 2859px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 472.8000183105469px var(--padding-base);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.all3,
+.frame-parent14,
+.frame-wrapper2 {
+  position: absolute;
+  top: 0;
+}
+.frame-wrapper2 {
+  right: 0;
+  background-color: var(--color-lightgray);
+  width: 1249px;
+  height: 637px;
+  overflow-y: auto;
+}
+.all3 {
+  margin: 0;
+  left: 13px;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.notes-and-lab-container3,
+.stationeries5 {
+  left: 13px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  cursor: pointer;
+}
+.stationeries5 {
+  margin: 0;
+  position: absolute;
+  top: 57px;
+}
+.notes-and-lab-container3 {
+  top: 114px;
+  line-height: 25px;
+}
+.all-parent1,
+.books5,
+.notes-and-lab-container3 {
+  margin: 0;
+  position: absolute;
+}
+.books5 {
+  top: 185px;
+  left: 13px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  cursor: pointer;
+}
+.all-parent1 {
+  top: 87px;
+  left: 0;
+  width: 185px;
+  height: 222px;
+}
+.frame-parent13 {
+  position: absolute;
+  top: 189px;
+  left: calc(50% - 753px);
+  width: 1506px;
+  height: 637px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray-100);
+}
+.buy-page-2nd-plan {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 864px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl-8);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

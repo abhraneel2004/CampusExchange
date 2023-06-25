@@ -1,0 +1,141 @@
+.personal-information {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-lgi-2);
+  font-weight: 400;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+}
+.frame-child34 {
+  border: 0.8px solid var(--color-gray-200);
+  background-color: var(--color-white);
+  position: relative;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 3.200000047683716px 3.2px rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  width: 267.2px;
+  height: 52.8px;
+}
+.rectangle-parent8 {
+  width: 572px;
+  height: 52.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 37.6px;
+}
+.frame-child37,
+.frame-child38,
+.frame-child40,
+.frame-child41 {
+  border: 0.8px solid var(--color-gray-200);
+  background-color: var(--color-white);
+  position: relative;
+  border-radius: var(--br-5xs);
+  box-shadow: 0 3.200000047683716px 3.2px rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  width: 464px;
+  height: 52.8px;
+}
+.frame-child38,
+.frame-child40,
+.frame-child41 {
+  width: 200px;
+}
+.frame-child40,
+.frame-child41 {
+  width: 276px;
+}
+.frame-child41 {
+  border: 0.8px dashed var(--color-gray-200);
+  width: 319.2px;
+  height: 87.2px;
+}
+.personal-information-parent {
+  position: absolute;
+  top: 183.2px;
+  left: calc(50% - 337.6px);
+  background: linear-gradient(
+    180deg,
+    rgba(157, 178, 191, 0.53),
+    rgba(157, 178, 191, 0)
+  );
+  width: 676px;
+  height: 620px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-base);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.aotcampusexchangecom-202310 {
+  position: absolute;
+  top: 825.6px;
+  left: calc(50% - 210.4px);
+}
+.campus-exchange10,
+.home10,
+.profile10 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.home10,
+.profile10 {
+  font-weight: 600;
+}
+.home10 {
+  cursor: pointer;
+}
+.profile10 {
+  color: var(--color-lightsteelblue-100);
+}
+.campus-exchange-parent7,
+.home-parent7 {
+  display: flex;
+  align-items: center;
+  color: var(--color-white);
+}
+.home-parent7 {
+  margin: 0;
+  width: 1131.2px;
+  height: 48px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-61xl);
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  font-family: var(--font-poppins);
+}
+.campus-exchange-parent7 {
+  position: absolute;
+  top: 0;
+  left: -1.6px;
+  background-color: var(--color-darkslategray-100);
+  width: 1537.6px;
+  height: 160.8px;
+  flex-direction: column;
+  padding: 0 203.1999969482422px;
+  box-sizing: border-box;
+  justify-content: center;
+  gap: var(--gap-13xl-8);
+  font-size: var(--font-size-22xl-6);
+  font-family: var(--font-amaranth);
+}
+.profile-page {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 864px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-5xl-8);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

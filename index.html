@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Amaranth:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="signup-page">
+      <main class="frame-main" id="s1">
+        <form class="frame-form" id="s2">
+          <input
+            class="frame-child29"
+            type="email"
+            placeholder="Email"
+            maxlength="{30}"
+            minlength="{11}"
+            required
+            id="s7"
+          />
+
+          <h2 class="hello-there" id="s6">Hello there</h2>
+          <button class="sign-up-wrapper" autofocus id="s9">
+            <div class="sign-up">Sign up</div>
+          </button>
+          <section class="frame-parent29" id="s3">
+            <button class="sign-up-container" disabled id="s4">
+              <div class="sign-up">Sign up</div>
+            </button>
+            <button class="log-in-wrapper" autofocus id="s5">
+              <div class="log-in">Log in</div>
+            </button>
+          </section>
+          <input
+            class="frame-child30"
+            type="password"
+            placeholder="Password"
+            maxlength="{14}"
+            minlength="{8}"
+            id="s8"
+          />
+
+          <h5 class="or" id="s10">Or</h5>
+          <button class="frame-wrapper6" autofocus id="s11">
+            <div class="google-logo-1-parent">
+              <img
+                class="google-logo-1"
+                alt=""
+                src="./public/google-logo-1@2x.png"
+              />
+
+              <div class="sign-up-with">Sign up with Google</div>
+            </div>
+          </button>
+        </form>
+        <img
+          class="laptop-gift-03-1"
+          alt=""
+          id="s12"
+          src="./public/laptop-gift-03-1@2x.png"
+        />
+      </main>
+    </div>
+
+    <script>
+      var frameButton = document.getElementById("s9");
+      if (frameButton) {
+        frameButton.addEventListener("click", function (e) {
+          window.location.href = "./HomePage.html";
+        });
+      }
+      
+      var frameButton2 = document.getElementById("s5");
+      if (frameButton2) {
+        frameButton2.addEventListener("click", function (e) {
+          window.location.href = "./LogInPage.html";
+        });
+      }
+      </script>
+  </body>
+</html>

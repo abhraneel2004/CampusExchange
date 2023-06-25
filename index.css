@@ -1,0 +1,215 @@
+.frame-child29 {
+  border: 0.7px solid var(--color-gray-200);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 138.4px;
+  left: 0;
+  border-radius: 6.63px;
+  box-shadow: 0 2.6502950191497803px 2.65px rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  width: 306.55px;
+  height: 43.69px;
+}
+.hello-there,
+.sign-up {
+  font-family: var(--font-poppins);
+  text-align: left;
+  display: inline-block;
+}
+.hello-there {
+  margin: 0;
+  position: absolute;
+  top: 75.2px;
+  left: 0;
+  font-size: 21.2px;
+  font-weight: 600;
+  color: var(--color-black);
+  width: 115.92px;
+  height: 31.97px;
+}
+.sign-up {
+  position: relative;
+  font-size: 17.23px;
+  font-weight: 300;
+  color: var(--color-white);
+  width: 63.95px;
+  height: 25.58px;
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+.sign-up-container,
+.sign-up-wrapper {
+  border: 0;
+  background-color: var(--color-darkslategray-100);
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.sign-up-wrapper {
+  cursor: pointer;
+  padding: 8.60546875px 120.77205657958984px;
+  position: absolute;
+  top: 287.2px;
+  left: 0;
+  border-radius: 6.63px;
+  box-shadow: 0 2.6502950191497803px 2.65px rgba(0, 0, 0, 0.04);
+  width: 306.55px;
+  height: 43.69px;
+  align-items: flex-end;
+}
+.sign-up-container {
+  padding: 8.60546875px 0;
+  border-radius: 6.62px 0 0 0;
+  width: 153.2px;
+  height: 44px;
+  align-items: center;
+}
+.log-in {
+  position: relative;
+  font-size: 17.23px;
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  color: var(--color-slategray);
+  text-align: left;
+  display: inline-block;
+  width: 49.6px;
+  height: 25.6px;
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+.log-in-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0 51.61906814575195px;
+  background-color: var(--color-white);
+  border-radius: 0 6.62px 0 0;
+  width: 153.28px;
+  height: 44px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-end;
+  justify-content: center;
+}
+.frame-parent29 {
+  position: absolute;
+  top: 0;
+  left: 0.74px;
+  width: 306.08px;
+  height: 44px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-child30 {
+  border: 0.7px solid var(--color-gray-200);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 212.8px;
+  left: 0;
+  border-radius: 6.63px;
+  box-shadow: 0 2.6502950191497803px 2.65px rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  width: 306.55px;
+  height: 43.69px;
+}
+.or {
+  margin: 0;
+  position: absolute;
+  top: 361.6px;
+  left: 143.01px;
+  font-size: 17.23px;
+  font-weight: 300;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 19.99px;
+  height: 25.58px;
+  opacity: 0.6;
+}
+.google-logo-1 {
+  position: relative;
+  width: 29.13px;
+  height: 29.13px;
+  object-fit: cover;
+}
+.sign-up-with {
+  position: relative;
+  font-size: 17.89px;
+  font-family: var(--font-poppins);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 178.27px;
+  height: 27.18px;
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+.google-logo-1-parent {
+  width: 210.05px;
+  height: 29.13px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs-4);
+}
+.frame-wrapper6 {
+  cursor: pointer;
+  border: 0.7px solid var(--color-gray-200);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 418.4px;
+  left: 0;
+  border-radius: 6.63px;
+  box-shadow: 0 3.200000047683716px 2.65px rgba(0, 0, 0, 0.04);
+  box-sizing: border-box;
+  width: 306.55px;
+  height: 43.69px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-form {
+  position: relative;
+  width: 306.82px;
+  height: 461.29px;
+}
+.laptop-gift-03-1 {
+  position: relative;
+  width: 504.8px;
+  height: 504.8px;
+  object-fit: cover;
+}
+.frame-main,
+.signup-page {
+  overflow: hidden;
+  display: flex;
+}
+.frame-main {
+  border-radius: var(--br-21xl);
+  background-color: var(--color-whitesmoke-200);
+  width: 1121.6px;
+  height: 756.12px;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: var(--padding-109xl) var(--padding-69xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-108xl-2);
+}
+.signup-page {
+  position: relative;
+  background-color: var(--color-lightblue);
+  width: 100%;
+  height: 864px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
