@@ -238,9 +238,10 @@
 .frame-wrapper2 {
   right: 0;
   background-color: var(--color-lightgray);
-  width: 1249px;
-  height: 637px;
+  width:900px;
+  height: 880px;
   overflow-y: auto;
+  margin-right: 20%;
 }
 .all3 {
   margin: 0;
@@ -290,10 +291,11 @@
   position: absolute;
   top: 189px;
   left: calc(50% - 753px);
-  width: 1506px;
+  width: 1500px;
   height: 637px;
   font-size: var(--font-size-5xl);
   color: var(--color-darkslategray-100);
+  margin-left: 10%;
 }
 .buy-page-2nd-plan {
   position: relative;
@@ -305,4 +307,23 @@
   font-size: var(--font-size-5xl-8);
   color: var(--color-black);
   font-family: var(--font-poppins);
+}
+.buy-button {
+  padding: 10px 20px;
+  background-color: #f0c14b;
+  color: #111;
+  font-size: 18px;
+  border: none;
+  border-radius: 4px;
+  cursor: progress;
+  margin-top: 20%;
+}
+
+.buy-button:hover {
+  background-color: #e1b734;
+}
+a{
+  text-decoration-line: none;
+  font-size: 18px;
+  font-family:  sans-serif;
 }
