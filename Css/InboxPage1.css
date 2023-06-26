@@ -223,3 +223,18 @@
   color: var(--color-black);
   font-family: var(--font-poppins);
 }
+
+.chatsection_image {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.chatsection_image img {
+  height: 500px;
+  width: 650px;
+  padding-left: 500px;
+  padding-top: 900px;
+
+}
