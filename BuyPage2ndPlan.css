@@ -227,7 +227,7 @@
 
 .introduction-to-programming-wi-group,
 .laboratory-manual-of-physics-l-group {
-  width: 800.6px;
+  width: 615.6px;
   height: 171.6px;
   align-items: flex-start;
   gap: var(--gap-8xl-6);
@@ -267,7 +267,7 @@
 .frame-wrapper2 {
   right: 0;
   background-color: var(--color-lightgray);
-  width:900px;
+  width: 900px;
   height: 880px;
   overflow-y: auto;
   margin-right: 20%;
@@ -345,10 +345,8 @@
   font-size: var(--font-size-5xl-8);
   color: var(--color-black);
   font-family: var(--font-poppins);
-<<<<<<< HEAD
 }
-=======
-}
+
 .buy-button {
   padding: 10px 20px;
   background-color: #f0c14b;
@@ -363,9 +361,9 @@
 .buy-button:hover {
   background-color: #e1b734;
 }
-a{
+
+a {
   text-decoration-line: none;
   font-size: 18px;
-  font-family:  sans-serif;
+  font-family: sans-serif;
 }
->>>>>>> 816cd7ef6627ff4f3f0f76bf6c74a5e62f38b1cd
