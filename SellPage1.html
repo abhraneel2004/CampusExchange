@@ -4,8 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="initial-scale=1, width=device-width" />
-  <link rel="stylesheet" href="./global.css" />
-  <link rel="stylesheet" href="./SellPage1.css" />
+  <link rel="stylesheet" href="./Css/global.css" />
+  <link rel="stylesheet" href="./Css/SellPage1.css" />
   <link rel="stylesheet"
     href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Amaranth:wght@400&display=swap" />
@@ -34,17 +34,17 @@
           <h4 class="upload-images1" id="s22">Upload Images</h4>
           <ul class="frame-parent28" id="s23">
             <div class="ellipse-parent1" id="s24">
-              <input class="frame-child19" type="radio" defaultchecked="{true}" id="radio1" />
+              <input class="frame-child19" type="radio" name="ab" id="radio1" />
 
               <h4 class="upload-images1" id="s27">Sell</h4>
             </div>
             <div class="ellipse-parent2" id="s25">
-              <input class="frame-child19" type="radio" id="radio1" />
+              <input class="frame-child19" type="radio" name="ab" id="radio2" />
 
               <h4 class="upload-images1" id="s28">Rent</h4>
             </div>
             <div class="ellipse-parent3" id="s26">
-              <input class="frame-child19" type="radio" id="radio1" />
+              <input class="frame-child19" type="radio" name="ab" id="radio3" />
 
               <h4 class="upload-images1" id="s29">Donate</h4>
             </div>
@@ -63,12 +63,12 @@
           <h4 class="upload-images1">Listing charge</h4>
           <input class="frame-child23" type="text" maxlength minlength />
 
-          <div class="vector-parent1">
-            <img class="frame-child25" alt="" src="./public/rectangle-483.svg" id="rectangle" />
-
-            <div class="select-category3">Select Category</div>
-            <img class="frame-child26" alt="" src="./public/group-373.svg" />
-          </div>
+          <h4 class="upload-images1">Select Category</h4>
+          <select id="sell">
+            <option value="Stationeries">Stationeries</option>
+            <option value="Notes and lab manuals">Notes and lab manuals</option>
+            <option value="Books">Books</option>
+          </select>
           <h4 class="upload-images1">Product Description</h4>
           <textarea class="frame-child27"> </textarea>
           <h4 class="upload-images1">Product Details</h4>
