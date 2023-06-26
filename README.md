@@ -1,12 +1,6 @@
 # Campus Exchange
 
-  Note: Please ensure you have installed `<code><a href="https://nodejs.org/en/download/">`nodejs`</a></code>`
-
-  To preview and run the project on your device:
-
-1) Open project folder in `<a href="https://code.visualstudio.com/download">`Visual Studio Code `</a>`
-2) In the terminal, run `npm install`
-3) Run `npm start` to view project in browser
+Our website will allow seamless connections between students and their seniors, enabling them to conveniently and easily exchange class notes, textbooks, and stationary items. By bridging the gap between different academic levels, we empower students to acquire the resources they need for their studies from their seniors. Whether it's purchasing, renting, or borrowing, our website offers a user-friendly experience for efficient and reliable transactions. Maximize your educational potential with our Campus exchange web application.
 
 
 Public folder:
@@ -63,3 +57,11 @@ StatioBuyPage2ndPlan
 ====================
 
 This page contains the HTML and CSS for the page where user can buy the stationary goods.
+
+  Note: Please ensure you have installed `<code><a href="https://nodejs.org/en/download/">`nodejs`</a></code>`
+
+  To preview and run the project on your device:
+
+1) Open project folder in `<a href="https://code.visualstudio.com/download">`Visual Studio Code `</a>`
+2) In the terminal, run `npm install`
+3) Run `npm start` to view project in browser
