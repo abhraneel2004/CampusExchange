@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <!-- this is from main branch -->
+=======
+<!-- this is googlesigninfeature -->
+>>>>>>> 7917e9e943f9314845259b00df11ca7f11c6d55b
 <!DOCTYPE html>
 <html>
 
@@ -19,10 +23,22 @@
         <input class="frame-child29" type="email" placeholder="Email" maxlength="{30}" minlength="{11}" required
           id="s7" />
 
+<<<<<<< HEAD
         <h2 class="hello-there" id="s6">Hello there</h2>
         <button class="sign-up-wrapper" autofocus id="s9">
           <div class="sign-up">Sign up</div>
         </button>
+=======
+
+        <h2 class="hello-there" id="s6">Hello there</h2>
+
+        <!-- This will be the button for google log in  -->
+        <button type="button" name="sign up" class="sign-up-wrapper" autofocus id="s9">
+          Sign up
+        </button>
+
+        <!-- ------------------------------------------------------- -->
+>>>>>>> 7917e9e943f9314845259b00df11ca7f11c6d55b
         <section class="frame-parent29" id="s3">
           <button class="sign-up-container" disabled id="s4">
             <div class="sign-up">Sign up</div>
@@ -32,6 +48,7 @@
           </button>
         </section>
         <input class="frame-child30" type="password" placeholder="Password" maxlength="{14}" minlength="{8}" id="s8" />
+<<<<<<< HEAD
 
         <h5 class="or" id="s10">Or</h5>
         <button class="frame-wrapper6" autofocus id="s11">
@@ -64,3 +81,91 @@
 </body>
 
 </html>
+=======
+
+      </form>
+      <img class="laptop-gift-03-1" alt="" id="s12" src="./public/laptop-gift-03-1@2x.png" />
+    </main>
+  </div>
+</body>
+<!-- ------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------ -->
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-analytics.js";
+  import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js";
+  // TODO: Add SDKs for Firebase products that you want to use
+  // https://firebase.google.com/docs/web/setup#available-libraries
+
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  const firebaseConfig = {
+    apiKey: "AIzaSyA54werJl7sXxN21Ld5HqVT2-kL0euf_Ik",
+    authDomain: "campus-exchange-9e348.firebaseapp.com",
+    databaseURL: "https://campus-exchange-9e348-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "campus-exchange-9e348",
+    storageBucket: "campus-exchange-9e348.appspot.com",
+    messagingSenderId: "373488341389",
+    appId: "1:373488341389:web:55245202b3908328c96dc4",
+    measurementId: "G-2FMKQYDB86"
+  };
+
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+  const auth = getAuth();
+  console.log(app);
+
+
+
+  //----- New Registration code start	  
+  document.getElementById("s9").addEventListener("click", function () {
+    var email = document.getElementById("s7").value;
+    var password = document.getElementById("s8").value;
+    console.log("Hello world!");
+    //For new registration
+    createUserWithEmailAndPassword(auth, email, password)
+      .then((userCredential) => {
+        // Signed in 
+        window.location.href = "./HomePage.html";
+        const user = userCredential.user;
+        alert("Registration successfully!!");
+
+        // ...
+      })
+      .catch((error) => {
+        const errorCode = error.code;
+        const errorMessage = error.message;
+        // ..
+        console.log(errorMessage);
+        alert(error);
+      });
+  });
+
+
+  var frameButton2 = document.getElementById("s5");
+  if (frameButton2) {
+    frameButton2.addEventListener("click", function (e) {
+      window.location.href = "./LogInPage.html";
+    });
+  }
+</script>
+
+
+</html>
+
+<!-- 
+const firebaseConfig = {
+  apiKey: "AIzaSyA54werJl7sXxN21Ld5HqVT2-kL0euf_Ik",
+  authDomain: "campus-exchange-9e348.firebaseapp.com",
+  databaseURL: "https://campus-exchange-9e348-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "campus-exchange-9e348",
+  storageBucket: "campus-exchange-9e348.appspot.com",
+  messagingSenderId: "373488341389",
+  appId: "1:373488341389:web:55245202b3908328c96dc4",
+  measurementId: "G-2FMKQYDB86"
+};
+ -->
+>>>>>>> 7917e9e943f9314845259b00df11ca7f11c6d55b

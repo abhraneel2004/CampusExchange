@@ -10,12 +10,14 @@
   width: 306.55px;
   height: 43.69px;
 }
+
 .hello-there,
 .sign-up {
   font-family: var(--font-poppins);
   text-align: left;
   display: inline-block;
 }
+
 .hello-there {
   margin: 0;
   position: absolute;
@@ -27,6 +29,7 @@
   width: 115.92px;
   height: 31.97px;
 }
+
 .sign-up {
   position: relative;
   font-size: 17.23px;
@@ -37,6 +40,8 @@
   flex-shrink: 0;
   opacity: 0.8;
 }
+
+
 .sign-up-container,
 .sign-up-wrapper {
   border: 0;
@@ -46,8 +51,17 @@
   box-sizing: border-box;
   justify-content: flex-start;
 }
+
 .sign-up-wrapper {
   cursor: pointer;
+  position: relative;
+  font-size: 17.23px;
+  font-weight: 300;
+  color: var(--color-white);
+  width: 63.95px;
+  height: 25.58px;
+  flex-shrink: 0;
+  opacity: 0.8;
   padding: 8.60546875px 120.77205657958984px;
   position: absolute;
   top: 287.2px;
@@ -58,6 +72,7 @@
   height: 43.69px;
   align-items: flex-end;
 }
+
 .sign-up-container {
   padding: 8.60546875px 0;
   border-radius: 6.62px 0 0 0;
@@ -65,6 +80,7 @@
   height: 44px;
   align-items: center;
 }
+
 .log-in {
   position: relative;
   font-size: 17.23px;
@@ -78,6 +94,7 @@
   flex-shrink: 0;
   opacity: 0.8;
 }
+
 .log-in-wrapper {
   cursor: pointer;
   border: 0;
@@ -92,6 +109,7 @@
   align-items: flex-end;
   justify-content: center;
 }
+
 .frame-parent29 {
   position: absolute;
   top: 0;
@@ -103,6 +121,7 @@
   align-items: center;
   justify-content: flex-start;
 }
+
 .frame-child30 {
   border: 0.7px solid var(--color-gray-200);
   background-color: var(--color-white);
@@ -115,6 +134,7 @@
   width: 306.55px;
   height: 43.69px;
 }
+
 .or {
   margin: 0;
   position: absolute;
@@ -130,12 +150,14 @@
   height: 25.58px;
   opacity: 0.6;
 }
+
 .google-logo-1 {
   position: relative;
   width: 29.13px;
   height: 29.13px;
   object-fit: cover;
 }
+
 .sign-up-with {
   position: relative;
   font-size: 17.89px;
@@ -148,6 +170,7 @@
   flex-shrink: 0;
   opacity: 0.6;
 }
+
 .google-logo-1-parent {
   width: 210.05px;
   height: 29.13px;
@@ -157,6 +180,7 @@
   justify-content: flex-start;
   gap: var(--gap-10xs-4);
 }
+
 .frame-wrapper6 {
   cursor: pointer;
   border: 0.7px solid var(--color-gray-200);
@@ -175,22 +199,26 @@
   align-items: center;
   justify-content: center;
 }
+
 .frame-form {
   position: relative;
   width: 306.82px;
   height: 461.29px;
 }
+
 .laptop-gift-03-1 {
   position: relative;
   width: 504.8px;
   height: 504.8px;
   object-fit: cover;
 }
+
 .frame-main,
 .signup-page {
   overflow: hidden;
   display: flex;
 }
+
 .frame-main {
   border-radius: var(--br-21xl);
   background-color: var(--color-whitesmoke-200);
@@ -204,6 +232,7 @@
   justify-content: flex-start;
   gap: var(--gap-108xl-2);
 }
+
 .signup-page {
   position: relative;
   background-color: var(--color-lightblue);
