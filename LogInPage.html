@@ -95,9 +95,16 @@
 
   var frameSection = document.getElementById("l3");
   if (frameSection) {
-    frameSection.addEventListener("click", function (e) {
-      window.location.href = "./index.html";
-    });
+    try {
+      frameSection.addEventListener("click", function (e) {
+        window.location.href = "./index.html";
+      });
+    }
+    catch (e) {
+      frameSection.addEventListener("click", function (e) {
+        window.location.href = "https://abhraneel2004.github.io/CampusExchange/";
+      });
+    }
   }
 
 
